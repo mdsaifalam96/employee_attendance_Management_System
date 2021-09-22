@@ -10,7 +10,7 @@
    # Then, go to URL “http://localhost/phpmyadmin“.
     Create a Database with a name that is provided inside the “01 LOGIN DETAILS & PROJECT INFO.txt”.
     Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
-   # After setting up all these, go to URL “http://localhost/semas_php_cl“
+   # After setting up all these, go to URL “ http://localhost/semas_php_cl “
     All the login details are provided inside the project folder, check that out and enter in order to use it.
 # Remember: Do not change the project’s folder name without updating the $config['base_url']
 ********************************************************************************************************************************************************************
